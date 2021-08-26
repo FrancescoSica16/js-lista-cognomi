@@ -15,7 +15,7 @@ listaCognomi.sort();
     console.log(listaCognomi);
 
 
-   let index = listaCognomi.indexOf(utenteCognome);
+   let index = listaCognomi.indexOf("Verdi")+1;
 
    console.log(index);
 
